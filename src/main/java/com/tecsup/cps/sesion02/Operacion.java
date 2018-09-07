@@ -1,3 +1,3 @@
-class Operacion1 {
-
+classs Operacion1 {
+	
 }
